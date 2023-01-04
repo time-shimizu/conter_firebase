@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "736018382077",
+    "project_id": "wadachi-d93da",
+    "storage_bucket": "wadachi-d93da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736018382077:android:cc77e7038bc272086dd294",
+        "android_client_info": {
+          "package_name": "com.example.counter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736018382077-n3k7lstdlmpogcljqbtktc0ej3bod2ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2uC8SwyEhzR3VFmGoriOnIbn1nBuWk9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736018382077-n3k7lstdlmpogcljqbtktc0ej3bod2ge.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "736018382077-2d91cg3i1l882ql4i35qfo63cbfdbtdc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.counterFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
